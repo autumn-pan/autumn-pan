@@ -3,11 +3,11 @@
 - 💞️ I’m looking to collaborate on nothing; I'm just here to learn for now
 - 😄 Pronouns: she/her
 - 📚 High School Student
+- 
 Projects: LinalgP (main focus), StatP
 
-Contacts:
-  Email: pan662607@gmail.com
-  Discord: newton.meter
+Email: pan662607@gmail.com
+Discord: newton.meter
   
 <!---
 PanA662607/PanA662607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
