@@ -5,8 +5,6 @@
 # About Me
 - I create npm packages (i.e hypercomplex, polylinalg) 
 
-- I create the world's worst programming languages.
-
 - Currently developing _Achilles_, a fast and efficient language specialized for mathematical computation
 
 # 💻 Tech Stack:
