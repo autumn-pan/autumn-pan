@@ -5,11 +5,13 @@
 # About Me
 - I create npm packages (i.e hypercomplex, polylinalg) 
 
-- Solo developer of Achilles
-  
-- Arch Linux
+- Lead developer of Achilles
+
+- Programmer for FRC Team 7127 "Longmetal Robotics"
+
 # Achilles
-Achilles is planned to be a programming language catered towards numerical analysis. It offers a hybrid approach to memory management and offers ease of use while still maintaining efficiency.
+Achilles is a multi-paradigm programming language designed for mathematics, especially computational analysis. Achilles strives to balance efficiency with ease of use, and is planned to include extensive optimization features as well as a vast standard library covering subjects from combinatorics to differential equations. Achilles is still in very early development, and is set to release by 2027.
+
 # Top Projects
 - https://github.com/autumn-pan/achilles
 - https://github.com/autumn-pan/polyoperations
