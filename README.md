@@ -5,7 +5,7 @@
 # About Me
 - I create npm packages (i.e hypercomplex, polylinalg) 
 
-- Programmer for FRC Team 7127 "Longmetal Robotics"
+- I code flight computers for rockets. My current project is Polaris I.
 
 
 
