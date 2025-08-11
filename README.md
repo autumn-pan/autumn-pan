@@ -5,7 +5,9 @@
 # About Me
 - I create npm packages (i.e hypercomplex, polylinalg) 
 
-- I code flight computers for rockets. My current project is Polaris I.
+- I code flight computers for rockets. I worked on Polaris I using the Arduino framework
+
+- I'm working on ALBATROSS RTOS for ARM Cortex-m and RISC (just ARM Cortex-m for now though)
 
 
 
