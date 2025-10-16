@@ -3,11 +3,11 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pan662607@gmail.com) 
 
 # About Me
-- I create npm packages (i.e hypercomplex, polylinalg) 
-
-- I code flight computers for rockets. I worked on Polaris I using the Arduino framework
-
+- I used to make NPM packages
 - I'm working on ALBATROSS RTOS for ARM Cortex-m and RISC (just ARM Cortex-m for now though)
+- I'm working on UC3, which is a configuration system based on the ideas of KConfig
+
+- I'm working on seriously improving my code readability and quality
 
 
 
