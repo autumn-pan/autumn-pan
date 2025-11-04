@@ -4,10 +4,8 @@
 
 # About Me
 - I used to make NPM packages
-- I'm working on ALBATROSS RTOS for ARM Cortex-m and RISC (just ARM Cortex-m for now though)
 - I'm working on UC3, which is a configuration system based on the ideas of KConfig
-
-- I'm working on seriously improving my code readability and quality
+- My main focus goes towards Busy Beaver 6
 
 
 
