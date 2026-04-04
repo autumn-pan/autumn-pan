@@ -3,9 +3,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pan662607@gmail.com) 
 
 # About Me
-- I used to make NPM packages
-- I'm working on UC3, which is a configuration system based on the ideas of KConfig
-- My main focus goes towards Busy Beaver 6
+- Check out my work on time scales
 
 
 
